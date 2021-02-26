@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="87287" started-at="2021-02-26T07:43:52Z" finished-at="2021-02-26T07:45:19Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="87287" started-at="2021-02-26T07:43:52Z" finished-at="2021-02-26T07:45:19Z">
+      <class name="TestNG.Execution">
+        <test-method status="PASS" signature="openapplications()[pri:0, instance:TestNG.Execution@3ac3fd8b]" name="openapplications" is-config="true" duration-ms="12526" started-at="2021-02-26T13:13:52Z" finished-at="2021-02-26T13:14:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openapplications -->
+        <test-method status="PASS" signature="Executionclass()[pri:0, instance:TestNG.Execution@3ac3fd8b]" name="Executionclass" duration-ms="74744" started-at="2021-02-26T13:14:04Z" finished-at="2021-02-26T13:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Executionclass -->
+        <test-method status="PASS" signature="closeapplications()[pri:0, instance:TestNG.Execution@3ac3fd8b]" name="closeapplications" is-config="true" duration-ms="0" started-at="2021-02-26T13:15:19Z" finished-at="2021-02-26T13:15:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapplications -->
+      </class> <!-- TestNG.Execution -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
